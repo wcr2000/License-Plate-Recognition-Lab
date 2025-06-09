@@ -172,3 +172,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+models/
+runs/
+s3/
+skip_crop_image/
+crop_image/
+test/
+annotated/
+char_crops/
+crop_finish/
+finish/
+*.pt
